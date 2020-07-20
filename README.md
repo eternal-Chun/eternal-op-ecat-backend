@@ -1,2 +1,2 @@
 # eternal-op-ecat-backend
-Back end of OP E-cataogue
+Back end of OP E-catalogue
